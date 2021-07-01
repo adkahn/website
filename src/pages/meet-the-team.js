@@ -16,7 +16,7 @@ export default function MyReactPage() {
   const teamProfiles = [
     {
       name: "Andy Kahn",
-      picture: "../build/img/andy.jpeg",
+      picture: "../img/andy.jpeg",
       github: "https://github.com/adkahn",
       linkedIn: "",
     },
